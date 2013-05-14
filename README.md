@@ -1,7 +1,9 @@
-http://dispatch.databinder.net/Dispatch.html
+[Dispatch](http://dispatch.databinder.net/Dispatch.html)
 
-http://unfiltered.databinder.net/Unfiltered.html
+[Unfiltered](http://unfiltered.databinder.net/Unfiltered.html)
 
-http://developer.github.com/v3/issues/
+[Github issues API](http://developer.github.com/v3/issues/)
 
-https://github.com/tristanjuricek/knockoff
+[Knockoff - markdown library](https://github.com/tristanjuricek/knockoff)
+
+`gen-idea` and `eclipse` commands will generate project files for your IDE
